@@ -1,0 +1,639 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"def",
+				"defaultSearchLink"
+			],
+			[
+				"sear",
+				"searchLink"
+			],
+			[
+				"loc",
+				"locData"
+			],
+			[
+				"la",
+				"latitude"
+			],
+			[
+				"token_",
+				"token_expires"
+			],
+			[
+				"time",
+				"timestamp_"
+			],
+			[
+				"exp",
+				"expires_in"
+			],
+			[
+				"foreca",
+				"forecast_out"
+			],
+			[
+				"se",
+				"SearchView"
+			],
+			[
+				"sess",
+				"session_token"
+			],
+			[
+				"toke",
+				"token_exists"
+			],
+			[
+				"YELp",
+				"YELP_SEARCH_ENDPOINT"
+			],
+			[
+				"YEL",
+				"YELP_AUTH_ENDPOINT"
+			],
+			[
+				"User",
+				"UserSessionManager"
+			],
+			[
+				"city",
+				"city_data"
+			],
+			[
+				"session",
+				"session_new"
+			],
+			[
+				"session_",
+				"session_key"
+			],
+			[
+				"get_cli",
+				"get_client_city_data"
+			],
+			[
+				"ip",
+				"ip_address"
+			],
+			[
+				"Ba",
+				"BASE_DIR"
+			],
+			[
+				"Defau",
+				"DefaultLogoutView"
+			],
+			[
+				"sessi",
+				"session_key"
+			],
+			[
+				"use",
+				"UserSession"
+			],
+			[
+				"Use",
+				"UserCreationForm"
+			],
+			[
+				"default",
+				"default_items"
+			],
+			[
+				"erro",
+				"error_data"
+			],
+			[
+				"bloc",
+				"inline-block"
+			],
+			[
+				"To",
+				"TodoList"
+			],
+			[
+				"get_ob",
+				"get_object_or_404"
+			],
+			[
+				"get",
+				"get_context_data"
+			],
+			[
+				"todo",
+				"todo_listview"
+			],
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"Contac",
+				"ContactTemplateView"
+			],
+			[
+				"ren",
+				"rental_car_cost1"
+			],
+			[
+				"rate",
+				"rate_string"
+			],
+			[
+				"clo",
+				"close_rate"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"cal",
+				"calculateForm"
+			],
+			[
+				"blog",
+				"blog_link"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"anima",
+				"animation-delay"
+			],
+			[
+				"conta",
+				"contactForm"
+			],
+			[
+				"imag",
+				"image_static"
+			],
+			[
+				"com",
+				"combo_gen"
+			],
+			[
+				"in",
+				"input_list"
+			],
+			[
+				"static",
+				"static_image"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"f",
+				"f_e_i"
+			],
+			[
+				"name",
+				"namearr"
+			],
+			[
+				"form",
+				"formarr"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"tota",
+				"total_talks"
+			],
+			[
+				"total",
+				"total_sales"
+			],
+			[
+				"tot",
+				"total_sales_final"
+			],
+			[
+				"close",
+				"close_rate_final"
+			],
+			[
+				"talk",
+				"talks_string"
+			],
+			[
+				"per",
+				"per_week"
+			],
+			[
+				"cu",
+				"currTime"
+			],
+			[
+				"fight",
+				"fighter_stats"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"wo",
+				"word_to_translate"
+			],
+			[
+				"trans",
+				"translate_word"
+			],
+			[
+				"p",
+				"print_border"
+			],
+			[
+				"calc",
+				"calculate_homework"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"wor",
+				"wordTranslate"
+			],
+			[
+				"print",
+				"print_dictionary"
+			],
+			[
+				"a",
+				"aDictonary"
+			],
+			[
+				"open_",
+				"open_string_spanish"
+			],
+			[
+				"open",
+				"open_string_spanish"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"h",
+				"h_y"
+			],
+			[
+				"b_",
+				"b_x"
+			],
+			[
+				"screen",
+				"screenHeight"
+			],
+			[
+				"scr",
+				"screenWidth"
+			],
+			[
+				"we",
+				"weapon_name"
+			],
+			[
+				"cur",
+				"cursorDB"
+			],
+			[
+				"de",
+				"decoration_name"
+			],
+			[
+				"text",
+				"text_answer"
+			],
+			[
+				"seconds",
+				"secondsEntry"
+			],
+			[
+				"depos",
+				"deposit_amount"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"dir"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/dev/geo/backend",
+		"/C/dev/geo/backend/src",
+		"/C/dev/geo/backend/src/geo2",
+		"/C/dev/geo/backend/src/geo2/analytics",
+		"/C/dev/geo/backend/src/geo2/geo2",
+		"/C/dev/geo/backend/src/geo2/templates"
+	],
+	"file_history":
+	[
+		"/C/dev/geo/backend/src/geo2/templates/base.html",
+		"/C/dev/geo/backend/src/geo2/geo2/settings.py",
+		"/C/dev/geo/backend/src/geo2/search/templates/search/home.html",
+		"/C/dev/geo/backend/src/geo2/search/views.py",
+		"/C/dev/geo/backend/src/geo2/search/utils.py",
+		"/C/machine-learning/regression.py",
+		"/C/dev/geo/backend/src/geo2/geo2/urls.py",
+		"/C/dev/geo/backend/src/geo2/analytics/admin.py",
+		"/C/dev/geo/backend/src/geo2/analytics/utils.py",
+		"/C/dev/geo/backend/src/geo2/analytics/models.py",
+		"/C/dev/geo/backend/src/geo2/account/views.py",
+		"/C/dev/geo/backend/src/geo2/account/forms.py",
+		"/C/dev/geo/backend/src/geo2/analytics/signals.py",
+		"/C/dev/geo/backend/src/geo2/account/templates/registration/login.html",
+		"/C/dev/geo/backend/src/geo2/account/templates/registration/base.html",
+		"/C/dev/geo/backend/src/geo2/analytics/views.py",
+		"/C/dev/geo/.gitignore",
+		"/C/authentication/user_auth1/loginsys/static/css/custom.css",
+		"/C/portfolio/website/blog/templates/blog/about.html",
+		"/C/authentication/user_auth1/loginsys/urls.py",
+		"/C/authentication/user_auth1/loginsys/views.py",
+		"/C/authentication/user_auth1/user_auth1/settings.py",
+		"/C/authentication/user_auth1/loginsys/templates/loginsys/welcome.html",
+		"/C/authentication/user_auth1/loginsys/templates/loginsys/register.html",
+		"/C/authentication/user_auth1/loginsys/templates/loginsys/login.html",
+		"/C/authentication/user_auth1/loginsys/templates/loginsys/header.html",
+		"/C/authentication/user_auth1/loginsys/forms.py",
+		"/C/portfolio/website/blog/urls.py",
+		"/C/portfolio/website/blog/templates/blog/contact_me.html",
+		"/C/authentication/user_auth1/user_auth1/urls.py",
+		"/C/practice1/morepractice/personal/views.py",
+		"/C/member_site/members/personal/views.py",
+		"/C/authentication/user_auth1/user_auth1/wsgi.py",
+		"/C/practice1/morepractice/personal/urls.py",
+		"/C/practice1/morepractice/personal/templates/personal/base.html",
+		"/C/practice1/morepractice/personal/templates/personal/js.html",
+		"/C/practice1/morepractice/personal/templates/personal/post_index.html",
+		"/C/practice1/morepractice/personal/templates/personal/endpoint.html",
+		"/C/practice1/morepractice/morepractice/settings.py",
+		"/C/practice1/morepractice/personal/forms.py",
+		"/C/todo_app/todo/todo_list/templates/todo_list/header.html",
+		"/C/todo_app/todo/todo_list/templates/todo_list/todo.html",
+		"/C/todo_app/todo/todo_list/static/css/custom.css",
+		"/C/portfolio/website/blog/models.py",
+		"/C/todo_app/todo/todo_list/admin.py",
+		"/C/todo_app/todo/todo/settings.py",
+		"/C/todo_app/todo/todo_list/models.py",
+		"/C/todo_app/todo/todo_list/views.py",
+		"/C/todo_app/todo/todo_list/forms.py",
+		"/C/todo_app/todo/todo_list/urls.py",
+		"/C/todo_app/todo/todo/urls.py",
+		"/C/todo_app/todo/todo_list/templates/todo_list/todolist_detail.html",
+		"/C/todo_app/todo/.gitignore",
+		"/C/portfolio/website/blog/templates/blog/header.html",
+		"/C/portfolio/website/blog/forms.py",
+		"/C/portfolio/website/blog/admin.py",
+		"/C/portfolio/website/blog/static/css/custom.css",
+		"/C/portfolio/website/blog/views.py",
+		"/C/portfolio/website/blog/templates/blog/port_detail.html",
+		"/C/portfolio/website/website/settings.py",
+		"/C/portfolio/website/blog/templates/blog/portfolio.html",
+		"/C/portfolio/website/blog/utils.py",
+		"/C/web/website/blog/models.py",
+		"/C/Users/Etherial Grammar/Desktop/Python OOP/ptyhon_fun/summation.py",
+		"/C/Users/Etherial Grammar/Desktop/Python OOP/ptyhon_fun/rental_car.py",
+		"/C/Users/Etherial Grammar/Desktop/Python OOP/ptyhon_fun/needle_hay.py",
+		"/C/business_calc/salesapp/.gitignore",
+		"/C/business_calc/salesapp/calc/views.py",
+		"/C/business_calc/salesapp/calc/static/css/custom.css",
+		"/C/business_calc/salesapp/calc/templates/calc/header.html",
+		"/C/business_calc/salesapp/calc/scripts/sales.py",
+		"/C/business_calc/salesapp/calc/forms.py",
+		"/C/business_calc/salesapp/calc/templates/calc/home.html",
+		"/C/business_calc/salesapp/salesapp/settings.py",
+		"/C/Users/Etherial Grammar/Desktop/Python OOP/ptyhon_fun/sales.py",
+		"/C/business_calc/salesapp/salesapp/urls.py",
+		"/C/business_calc/salesapp/calc/urls.py",
+		"/C/portfolio/website/.gitignore",
+		"/C/portfolio/website/website/urls.py",
+		"/C/Users/Etherial Grammar/Desktop/urls.py",
+		"/C/portfolio/website/blog/templates/blog/article.html",
+		"/C/portfolio/website/blog/templates/blog/post_list.html",
+		"/C/Users/Etherial Grammar/Desktop/settings.py",
+		"/C/Users/Etherial Grammar/Desktop/Python OOP/ptyhon_fun/generators723.py",
+		"/C/Users/Etherial Grammar/Desktop/Python OOP/ptyhon_fun/enumerate.py",
+		"/C/Users/Etherial Grammar/Desktop/Python OOP/ptyhon_fun/zips.py",
+		"/C/Users/Etherial Grammar/Desktop/Python OOP/ptyhon_fun/723practice.py",
+		"/C/Users/Etherial Grammar/Desktop/Python OOP/ptyhon_fun/square_digits.py",
+		"/C/Users/Etherial Grammar/Desktop/Python OOP/ptyhon_fun/find_even_index.py",
+		"/C/Users/Etherial Grammar/Desktop/Python OOP/ptyhon_fun/namelist.py",
+		"/C/practice1/morepractice/personal/admin.py",
+		"/C/practice1/morepractice/personal/models.py",
+		"/C/practice1/morepractice/morepractice/urls.py",
+		"/C/Users/Etherial Grammar/Desktop/Python OOP/unite.py",
+		"/C/web/website/blog/templates/blog/how_it_works.html",
+		"/C/Users/Etherial Grammar/Desktop/grid_layouts/grid.css",
+		"/C/web/website/blog/urls.py",
+		"/C/web/website/blog/templates/blog/sign_up.html",
+		"/C/web/website/blog/templates/blog/form_test.html",
+		"/C/web/website/blog/forms.py",
+		"/C/web/website/blog/views.py",
+		"/C/Users/Etherial Grammar/Desktop/grid_layouts/grid.html",
+		"/C/Users/Etherial Grammar/Desktop/Python OOP/ptyhon_fun/718practice.py",
+		"/C/web/website/blog/static/css/custom.css",
+		"/C/web/website/blog/templates/blog/post_index.html",
+		"/C/member_site/members/personal/urls.py",
+		"/C/member_site/members/members/urls.py",
+		"/C/web/website/blog/templates/blog/home.html",
+		"/C/webapps/mysite/mysite/urls.py",
+		"/C/webapps/mysite/blog/static/css/custom.css",
+		"/C/Users/Etherial Grammar/Desktop/Rocket Design Starter Files/style.css",
+		"/C/webapps/mysite/blog/templates/blog/home.html",
+		"/C/webapps/mysite/mysite/settings.py",
+		"/C/webapps/mysite/blog/views.py",
+		"/C/webapps/mysite/blog/urls.py",
+		"/C/web/.gitignore",
+		"/C/web/website/website/urls.py",
+		"/C/web/website/website/settings.py",
+		"/C/web/website/blog/templates/blog/faqs.html",
+		"/C/web/website/blog/templates/blog/about.html",
+		"/C/web/website/blog/templates/blog/sign_up2.html",
+		"/C/member_site/members/members/settings.py",
+		"/C/member_site/members/webapp/views.py",
+		"/C/member_site/members/webapp/urls.py",
+		"/C/Users/Etherial Grammar/Desktop/Python OOP/ptyhon_fun/state_iteration.py",
+		"/C/Users/Etherial Grammar/Desktop/Python OOP/ptyhon_fun/generate_html.py",
+		"/C/Users/Etherial Grammar/Desktop/Python OOP/ptyhon_fun/talking.py",
+		"/C/Users/Etherial Grammar/Desktop/Python OOP/ptyhon_fun/oop_test.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"num",
+			"getCoords",
+			"course"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"print_board",
+			"python_course"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tsSetup.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
